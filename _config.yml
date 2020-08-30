@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-# twitter:
-  # username               : &twitter
+twitter:
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Chris Peterson"
+  avatar           : "test.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Chris-Peterson444"
   google_plus      :
   keybase          :
   instagram        :
