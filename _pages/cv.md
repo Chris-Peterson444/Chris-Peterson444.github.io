@@ -23,34 +23,41 @@ Education
 
 [//]: # (* Ph.D in Version Control Theory, GitHub University, 2018 (expected))
 
-Research Experience
+Academic and Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Research Assistant  - Aug 2018 - Aug 2020
+	- Socially Assistive Robotics Group, University of Nevada, Reno
+  	- Projects:
+  		- Proj1
+  		- Proj2
+ 	- Some other things
+ 	- Mentors:
+ 		- Dr. David Feil-Seifer
+ 		- Andrew Palmer
+ 		
+ 		
+* Undergraduate Researcher - Summer 2019
+	- Research Experience for Undergraduates - University of Nevada, Reno - Human Robot Interaction
+	- Project Details
 
-* Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+  - [x] testing checklists
+  - [ ] not done?
+  
 Skills
 ======
-* Comfortable 
-* Familiar
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming:
+	- Comfortable: C/C++, Python, NumPy, Git, LaTex, Robot Operating Sytem (ROS), Gazebo, Linux
+	- Familiar:  Java, Swift, Keras, Tensorflow, OpenCV, OpenAI Gym,
+* Topics: 
+	- Sub-skill 2.1
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
