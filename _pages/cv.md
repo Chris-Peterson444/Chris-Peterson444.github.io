@@ -28,9 +28,9 @@ Academic and Research Experience
 * Undergraduate Research Assistant  - Aug 2018 - Aug 2020
 	- Socially Assistive Robotics Group, University of Nevada, Reno
   	- Projects:
-  		- Proj1
-  		- Proj2
- 	- Some other things
+  		- Camera-to-2D-LiDAR Calibration Method: Co-developed a new method of feature correspondence between lidar and rgb camera sensors capable of calibrating the two-sensor system from a single sample.
+  		- Intent Recognition System for PR2 Robot: Assisted in developing a human intent recognition system to enable socially aware navigation of robotic systems.
+  		- Pioneer3-DX Gazebo/ROS simulation: Co-designed simulation and control code, as well as a custom simulation model, for a Pioneer3-DX in Gazebo.
  	- Mentors:
  		- Dr. David Feil-Seifer
  		- Andrew Palmer
@@ -38,22 +38,18 @@ Academic and Research Experience
  		
 * Undergraduate Researcher - Summer 2019
 	- Research Experience for Undergraduates - University of Nevada, Reno - Human Robot Interaction
-	- Project Details
+		- Perceptions of Computer-Generated Speech for Social Robotics: Investigated the existence of vocal-pitch-based stereotypes of social robots in human robot interaction. 
 
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-  - [x] testing checklists
-  - [ ] not done?
+* Teaching Fellow
+	- Artificial Intelligence (CS 482/682) - University of Nevda, Reno
+	- Led review sesssions, validated course materials, and graded assignments and exams for an undergraduate/graduate level course (approx. 65 students).
+
   
 Skills
 ======
 * Programming:
 	- Comfortable: C/C++, Python, NumPy, Git, LaTex, Robot Operating Sytem (ROS), Gazebo, Linux
 	- Familiar:  Java, Swift, Keras, Tensorflow, OpenCV, OpenAI Gym,
-* Topics: 
-	- Sub-skill 2.1
 
 
 Publications
