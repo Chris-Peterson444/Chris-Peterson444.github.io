@@ -31,9 +31,9 @@ Academic and Research Experience
   		- Camera-to-2D-LiDAR Calibration Method: Co-developed a new method of feature correspondence between lidar and rgb camera sensors capable of calibrating the two-sensor system from a single sample.
   		- Intent Recognition System for PR2 Robot: Assisted in developing a human intent recognition system to enable socially aware navigation of robotic systems.
   		- Pioneer3-DX Gazebo/ROS simulation: Co-designed simulation and control code, as well as a custom simulation model, for a Pioneer3-DX in Gazebo.
-		- Mentors:
-			- Dr. David Feil-Seifer
-			- Andrew Palmer
+	- Mentors:
+		- Dr. David Feil-Seifer
+		- Andrew Palmer
  		
  		
 * Undergraduate Researcher - Summer 2019
@@ -52,7 +52,7 @@ Skills
 	- Familiar:  Java, Swift, Keras, Tensorflow, OpenCV, OpenAI Gym,
 
 
-Publications
+Submitted Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}

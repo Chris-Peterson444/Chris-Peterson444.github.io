@@ -17,3 +17,6 @@ author_profile: true
 
 Accepted Publications
 ======
+{% for post in site.submitted reversed %}
+  {% include archive-single.html %}
+{% endfor %}
