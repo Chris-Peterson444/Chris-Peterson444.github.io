@@ -32,8 +32,8 @@ Academic and Research Experience
   		- Intent Recognition System for PR2 Robot: Assisted in developing a human intent recognition system to enable socially aware navigation of robotic systems.
   		- Pioneer3-DX Gazebo/ROS simulation: Co-designed simulation and control code, as well as a custom simulation model, for a Pioneer3-DX in Gazebo.
 		- Mentors:
- 		- Dr. David Feil-Seifer
- 		- Andrew Palmer
+			- Dr. David Feil-Seifer
+			- Andrew Palmer
  		
  		
 * Undergraduate Researcher - Summer 2019
