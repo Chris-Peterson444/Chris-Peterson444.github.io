@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Submitted Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+Accepted Publications
+======
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -15,7 +18,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Accepted Publications
+Submitted Publications
 ======
 {% for post in site.submitted reversed %}
   {% include archive-single.html %}
