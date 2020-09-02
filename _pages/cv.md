@@ -54,6 +54,6 @@ Skills
 
 Submitted Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.submitted %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
