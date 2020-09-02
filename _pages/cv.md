@@ -57,3 +57,7 @@ Submitted Publications
   <ul>{% for post in site.submitted %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Honors & Awards
+======
+* GE Coding Competition Award for Intermediate - Second Place
