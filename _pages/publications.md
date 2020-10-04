@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publication rseversed %}
+{% for post in site.publications rseversed %}
   {% include archive-single.html %}
 {% endfor %}
