@@ -10,3 +10,4 @@ citation: 'A. Palmer, C. Peterson, J. Blankenburg, D. Feil-Seifer, M. Nicolescu,
 ---
 This paper proposes a new method of feature correspondence between lidar and rgb camera sensors capable of calibrating the two-sensor system from a single sample.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)

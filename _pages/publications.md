@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Submitted Publications"
+title: "Accepted Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.submitted reversed %}
+{% for post in site.publication rseversed %}
   {% include archive-single.html %}
 {% endfor %}
