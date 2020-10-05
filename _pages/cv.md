@@ -52,9 +52,9 @@ Skills
 	- Familiar:  Java, Swift, Keras, Tensorflow, OpenCV, OpenAI Gym,
 
 
-Submitted Publications
+Accepted Publications
 ======
-  <ul>{% for post in site.submitted %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
