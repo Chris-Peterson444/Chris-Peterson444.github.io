@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chris Peterson"
   avatar           : "test.jpg"
-  bio              : "M.S. Computer Science student at UC Davis"
-  location         : #"Location"
+  bio              : "ML and SW Engineer"
+  location         : "California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"

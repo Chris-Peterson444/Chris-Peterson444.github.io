@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science
-	- University of California, Davis - 2022 (Expected)
+	- University of California, Davis - 2022
 * B.S. in Computer Science and Engineering
 	- Minor: Mathematics
 	- University of Nevada, Reno - 2020
@@ -25,7 +25,7 @@ Education
 
 Academic and Research Experience
 ======
-* Graduate Research Assistant - Computational Linguistics Lab, University of California, Davis - Sept 2020 - Current
+* Graduate Research Assistant - Computational Linguistics Lab, University of California, Davis - Sept 2020 - July 2022
 	- Projects:
 		- Semantic Parsing for Low-Resource Domain-Specific Languages: Levearging methods from Natural Language Processing, developed an efficient semantic parser for domain-specific languages in a zero-shot setting.
 	- Mentors:
@@ -48,21 +48,21 @@ Academic and Research Experience
 	- Mentors:
 		- Dr. David Feil-Seifer
 		- Andrew Palmer
- 
+
 * Teaching Fellow - Fall 2019
 	- Artificial Intelligence (CS 482/682) - University of Nevda, Reno
 	- Led review sesssions, validated course materials, and graded assignments and exams for an undergraduate/graduate level course (approx. 65 students).
- 		
+
 * Undergraduate Researcher - Summer 2019
 	- Research Experience for Undergraduates - University of Nevada, Reno - Human Robot Interaction
-		- Perceptions of Computer-Generated Speech for Social Robotics: Investigated the existence of vocal-pitch-based stereotypes of social robots in human robot interaction. 
+		- Perceptions of Computer-Generated Speech for Social Robotics: Investigated the existence of vocal-pitch-based stereotypes of social robots in human robot interaction.
 
-  
+
 Skills
 ======
 * Programming:
 	- Comfortable: C/C++, Python, PyTorch, NumPy, Git, LaTex, Linux, Bash
-	- Familiar:  Java, Swift, Keras, Tensorflow, OpenCV, OpenAI Gym,Robot Operating Sytem (ROS), Gazebo
+	- Familiar:  Java, Swift, Keras, Tensorflow, OpenCV, Robot Operating Sytem (ROS), Gazebo
 
 
 Accepted Publications
