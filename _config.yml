@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chris Peterson"
-  avatar           : "test.jpg"
+  avatar           : "https://github.com/chris-peterson444.png"
   bio              : "ML and SW Engineer"
   location         : "California"
   employer         :
