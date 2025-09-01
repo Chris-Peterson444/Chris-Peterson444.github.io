@@ -12,4 +12,3 @@ This paper proposes a new method of feature correspondence between lidar and rgb
 
 
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

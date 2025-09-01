@@ -47,7 +47,7 @@ Skills
 
 Accepted Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -104,5 +104,17 @@ Algorithm-based solution to the k-Chinese Postman problem, with a resulting
 2.5x speedup; Python, C++, CUDA
 
 Honors & Awards
+=======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
 ======
 * GE Coding Competition Award for Intermediate - Second Place
