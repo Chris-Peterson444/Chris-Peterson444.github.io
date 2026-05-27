@@ -25,10 +25,12 @@ Education
 
 Academic and Research Experience
 ======
-* Graduate Student Researcher - Computational Linguistics Lab, University of California, Davis - Sept 2020 - July 2022
+* Graduate Student Researcher - [Computational Linguistics Lab](https://compling.ucdavis.edu/), University of California, Davis - Sept 2020 - July 2022
+    - Advised by [Dr. Kenji Sagae](http://compling.ucdavis.edu/sagae/)
     - *Efficient Neural Semantic Parsing for Low-Resource Languages*: Developed a methodology to generate efficient neural models for semantic parsing in the zero-shot setting.
     Models generated using this methodology demonstrated competitive results to the current state-of-the-art work while requiring just 3% of the computational resources.
-* Undergraduate Research Assistant - Robotics Research Lab, University of Nevada, Reno - Aug 2018 - Aug 2020
+* Undergraduate Research Assistant - [Robotics Research Lab](https://rrl.cse.unr.edu/en/), University of Nevada, Reno - Aug 2018 - Aug 2020
+    - Advised by [Dr. David Feil-Seifer](https://www.cse.unr.edu/~dave/)
     - *Camera-to-2D-LiDAR Calibration Method*: Developed a new method of feature correspondence between lidar and rgb camera sensors capable of calibrating a multi-sensor system from a single sample without a priori information about the calibration target geometry.
     - *Intent Recognition System for PR2 Robot*: Assisted in developing an artificial intelligence human-intent recognition system to enable socially aware navigation of robotic platforms in a multi-agent setting.
     - *Pioneer3-DX Gazebo/ROS simulation*: Designed simulation and control code, as well as a custom simulation model, for a Pioneer3-DX in Gazebo.
